@@ -1,0 +1,8 @@
+Producto [articulo=Jeans, precio=15000, descripcion=Son unos jeans maravillosos, codigo=1500, talla=42, marca=Levos, color=verde]
+Producto [articulo=Jeans, precio=10000, descripcion=Son Jeans pero de verdad hermosos, codigo=1501, talla=54, marca=Levos, color=Celeste]
+Producto [articulo=Jeans, precio=12000, descripcion=Unos jeans increibles, codigo=1502, talla=44, marca=Levos, color=Blanco]
+Producto [articulo=Polera, precio=8000, descripcion=Una polera de aquellas, codigo=1400, talla=XL, marca=Xmen, color=Amarillo]
+Producto [articulo=Polera, precio=7000, descripcion=Una polera sexy, codigo=1401, talla=XS, marca=Xmen, color=Blanco]
+Producto [articulo=Polera, precio=5000, descripcion=Una polera que usan para pijama, codigo=1402, talla=L, marca=Xmen, color=Celeste]
+Producto [articulo=Poleron, precio=10000, descripcion=Un poleron de la NASA, codigo=1300, talla=XL, marca=Nasa, color=Negro]
+Producto [articulo=Poleron , precio=12000, descripcion=Un poleron de SPACE X, codigo=1301, talla=L, marca=Space X, color=Plomo]
